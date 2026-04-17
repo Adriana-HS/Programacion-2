@@ -1,2 +1,2 @@
-# Programaci-n-2
+# Programacion-2
 Ejercicios de Programación 2
