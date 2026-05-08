@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarritoConsole", "CarritoConsole.csproj", "{0973A055-DD36-EA6A-6D74-ADAA7D791C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0973A055-DD36-EA6A-6D74-ADAA7D791C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0973A055-DD36-EA6A-6D74-ADAA7D791C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0973A055-DD36-EA6A-6D74-ADAA7D791C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0973A055-DD36-EA6A-6D74-ADAA7D791C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD62B97C-5427-4FBE-85A1-18F9C934AA88}
+	EndGlobalSection
+EndGlobal
